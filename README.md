@@ -1,6 +1,6 @@
 # freq-count
 
-Frequency counter for words/chars/lines.
+Count character/word/line frequencies in text.
 
 Zero dependencies. Python 3.8+.
 
